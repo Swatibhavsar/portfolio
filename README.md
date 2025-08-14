@@ -1,7 +1,6 @@
 # Swati Gajjar - Software QA Engineer | Automation Tester | SDET-in-Progress
 
 Welcome to my personal portfolio and project showcase.  
-This site is built with **Jekyll** and hosted via **GitHub Pages**.
 
 ---
 
@@ -23,8 +22,9 @@ A clear communicator, highly organized, and detail-oriented, I specialize in **m
 ### **Testing Skills**
 - Functional, Regression, UI, and Cross-browser testing
 - API Testing (Postman, Swagger)
+- Mobile App Testing IOS AND Android
 - Responsive testing with BrowserStack
-- Payment gateway validation (Stripe, Paystack, PayPal)
+- Payment gateway validation (Stripe, Paystack, PayPal, ApplePay,GooglePay)
 - Data validation from publishers
 
 ### **Automation Skills**
@@ -66,13 +66,6 @@ A clear communicator, highly organized, and detail-oriented, I specialize in **m
 - **ISTQB Certified Tester** – Foundation Level
 - **Cypress - Modern Automation Testing from Scratch + Frameworks**
 - **Postman: The Complete Guide - REST API Testing**
-
----
-
-## 📂 Portfolio Site Content
-- **About Me** – Professional journey & expertise
-- **Projects** – AI testing, automation frameworks, and QA case studies
-- **Blog** – Insights on QA automation, AI testing, and best practices
 
 ---
 
